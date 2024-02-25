@@ -312,7 +312,7 @@ def Sobre():
     Frame_igm = Frame(sobre, background="#aad1fc", relief="solid", borderwidth=2)
     Frame_igm.place(x =40, y = 100, width= 300, height= 400)
     #foto
-    image = Image.open("C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/joia.ico")
+    image = Image.open("C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/joia.gif")
     photo = ImageTk.PhotoImage(image)
     img = Label(Frame_igm, image=photo)
     img.pack()
