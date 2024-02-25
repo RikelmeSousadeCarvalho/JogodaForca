@@ -1,14 +1,23 @@
 # JogodaForca
 Este jogo da velha foi desenvolvido por mim enquanto realizava um curso de python e foi meu primeiro programa. Foram usados conceitos simples de tkinter e lógica.  
-## Página inical
+## Janela inical
 
-![image](https://github.com/RikelmeSousadeCarvalho/JogodaVelha/assets/157433670/7e6d3e6f-9481-426b-9e6c-1f632387f186)
+![image](https://github.com/RikelmeSousadeCarvalho/JogodaForca/assets/157433670/18b06116-de72-4c58-ba65-4475821cf337)
+
 ---
-## Página do jogo
+## Janela da categoria de futebol
 
-![image](https://github.com/RikelmeSousadeCarvalho/JogodaVelha/assets/157433670/ee77bb98-9fcd-4b6f-9912-8769affa60e0)
+![image](https://github.com/RikelmeSousadeCarvalho/JogodaForca/assets/157433670/73333b53-6379-47f8-b8b6-51e363665898)
+
 ---
-## Página sobre
+## Janela da categoria de comidas
 
-![image](https://github.com/RikelmeSousadeCarvalho/JogodaVelha/assets/157433670/adc1116b-54af-4f7c-bc4f-84d3ccc9973f)
+![image](https://github.com/RikelmeSousadeCarvalho/JogodaForca/assets/157433670/e5f17b77-4e08-4e65-b0a2-dc7efc1b5fab)
+
+---
+
+## Janela sobre
+
+![image](https://github.com/RikelmeSousadeCarvalho/JogodaForca/assets/157433670/f7bd134f-3c0e-49b0-af78-e1726f825488)
+
 ---
