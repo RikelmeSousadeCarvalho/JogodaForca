@@ -1,4 +1,4 @@
-# JogodaVelha
+# JogodaForca
 Este jogo da velha foi desenvolvido por mim enquanto realizava um curso de python e foi meu primeiro programa. Foram usados conceitos simples de tkinter e lógica.  
 ## Página inical
 
