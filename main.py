@@ -99,9 +99,9 @@ def futebol():
         lbintro2.config(text="Palavra: {}".format(' '.join(letrasPalavra)))
 
     futebol.resizable(False, False)
-    icone = "D:/Cursos/Jornada_do_Dev/python/aulas/jogodaforca/icon.ico"
+    icone = "C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico"
     futebol.title("Jogo da Forca")
-    icone = "D:/Cursos/Jornada_do_Dev/python/aulas/jogodaforca/icon.ico"
+    icone = "C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico"
     futebol.iconbitmap(icone)
     futebol.geometry("900x700")
     futebol.configure(background="#2c6b21")
@@ -173,7 +173,7 @@ def Sobre():
     p1.pack(pady=20)
 
     #foto
-    image = Image.open("D:/Cursos/Jornada_do_Dev/python/aulas/jogodaforca/icon.ico")
+    image = Image.open("C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico")
     photo = ImageTk.PhotoImage(image)
     img = Label(sobre, image=photo)
     img.pack(pady=50)
@@ -186,9 +186,9 @@ def Sobre():
 janela = Tk()
 os.system('cls')
 janela.resizable(False, False)
-icone = "D:/Cursos/Jornada_do_Dev/python/aulas/jogodaforca/icon.ico"
+icone = "C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico"
 janela.title("Jogo da Forca")
-icone = "D:/Cursos/Jornada_do_Dev/python/aulas/jogodaforca/icon.ico"
+icone = "C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico"
 janela.iconbitmap(icone)
 janela.geometry("900x700")
 janela.configure(background="#2c6b21")
@@ -205,7 +205,7 @@ btn_jogar.pack(pady=60)
 btn_sobre = Button(main, text="Sobre", command=Sobre, width=15, height=3, font=("Roboto", 16), relief="solid", borderwidth=3, background="#2c6b21", fg="#fff")
 btn_sobre.pack()
 
-image = Image.open("D:/Cursos/Jornada_do_Dev/python/aulas/jogodaforca/icon.ico")
+image = Image.open("C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico")
 photo = ImageTk.PhotoImage(image)
 img = Label(main, image=photo)
 img.pack(pady=50)
