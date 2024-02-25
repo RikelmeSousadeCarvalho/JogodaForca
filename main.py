@@ -100,7 +100,7 @@ def futebol():
 
     futebol.resizable(False, False)
     icone = "C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico"
-    futebol.title("Jogo da Forca")
+    futebol.title("Categoria - Futebol")
     icone = "C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico"
     futebol.iconbitmap(icone)
     futebol.geometry("900x700")
@@ -246,7 +246,7 @@ def comidas():
 
     comidas.resizable(False, False)
     icone = "C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico"
-    comidas.title("Jogo da Forca")
+    comidas.title("Categoria - Comidas")
     icone = "C:/Users/rikel/OneDrive/Documentos/MeusProjetos/JogodaForca/icon.ico"
     comidas.iconbitmap(icone)
     comidas.geometry("900x700")
